@@ -1,5 +1,7 @@
 import ThemeOptions from './ThemeOptions';
 
-export default {
+const app = {
     ThemeOptions
 };
+
+export default app;
